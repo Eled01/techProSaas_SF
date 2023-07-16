@@ -44,6 +44,12 @@
         <members>TigerNT</members>
         <name>ApexClass</name>
     </types>
+   
+    <types>
+    <members> amazon__c</members>
+
+    <name>CustomObject</name>
+    </types>
     <types>
         <members>Account-Account %28Marketing%29 Layout</members>
         <members>Account-Account %28Sales%29 Layout</members>
